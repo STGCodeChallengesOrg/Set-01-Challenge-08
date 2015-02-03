@@ -1,0 +1,6 @@
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge08_CreditCardValidator\bin\Debug\CodeChallenge08_CreditCardValidator.exe.config
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge08_CreditCardValidator\obj\Debug\CodeChallenge08_CreditCardValidator.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge08_CreditCardValidator\bin\Debug\CodeChallenge08_CreditCardValidator.exe
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge08_CreditCardValidator\bin\Debug\CodeChallenge08_CreditCardValidator.pdb
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge08_CreditCardValidator\obj\Debug\CodeChallenge08_CreditCardValidator.exe
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge08_CreditCardValidator\obj\Debug\CodeChallenge08_CreditCardValidator.pdb
