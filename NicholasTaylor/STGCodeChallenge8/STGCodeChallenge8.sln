@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STGCodeChallenge8", "STGCodeChallenge8\STGCodeChallenge8.csproj", "{B272B084-515C-4F1F-8AF6-0C505CA032EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B272B084-515C-4F1F-8AF6-0C505CA032EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B272B084-515C-4F1F-8AF6-0C505CA032EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B272B084-515C-4F1F-8AF6-0C505CA032EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B272B084-515C-4F1F-8AF6-0C505CA032EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
